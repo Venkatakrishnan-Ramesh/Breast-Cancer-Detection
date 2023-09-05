@@ -1,4 +1,7 @@
-# Breast-Cancer-Detection
+# Early Breast-Cancer-Detection
+
+![image](https://github.com/Venkatakrishnan-Ramesh/Breast-Cancer-Detection/assets/74406604/c433f4d7-aba3-45af-8647-6d9ad233b325)
+
 
 # Inspiration
 
